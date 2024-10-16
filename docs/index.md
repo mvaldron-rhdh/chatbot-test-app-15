@@ -1,6 +1,6 @@
 # Trusted Application Pipeline Software Template
 
-This application, **chatbot-test-app-15**, was created from a Trusted Application Pipeline Software Template.
+This application, **chatbot**, was created from a Trusted Application Pipeline Software Template.
 
 The software templates create a new source and gitops deployment repositories with a sample source application. 
 
